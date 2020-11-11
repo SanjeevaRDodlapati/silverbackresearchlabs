@@ -1,3 +1,0 @@
-pycaret
-Flask
-jinja2
